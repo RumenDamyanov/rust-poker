@@ -1,0 +1,19 @@
+# IDE
+.vscode/
+.cursor/
+.idea/
+.zed/
+.ai/
+
+# Rust / Cargo
+/target/
+Cargo.lock
+
+# Coverage
+/coverage/
+tarpaulin-report.html
+cobertura.xml
+
+# OS
+.DS_Store
+Thumbs.db
