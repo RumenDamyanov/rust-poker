@@ -42,7 +42,7 @@ tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 uuid = { version = "1", features = ["v4"] }
 rand = "0.10"
 thiserror = "2"
-itertools = "0.14"
+itertools = "0.15"
 
 [dev-dependencies]
 tower = { version = "0.5", features = ["util"] }
